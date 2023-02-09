@@ -27,7 +27,7 @@ const Form = () => {
           )}
        <button
     className={classNames(
-      "flex h-12 w-full place-content-center place-items-center gap-x-3 rounded-md bg-primary-600 px-4 py-2 text-sm font-medium text-white shadow-sm focus:outline-none enabled:hover:bg-primary-700"
+      "flex h-12 w-20 place-content-center place-items-center gap-x-3 rounded-md bg-primary-600 px-4 py-2 text-sm font-medium text-white shadow-sm focus:outline-none enabled:hover:bg-primary-700"
     )}
   >
     Submit
